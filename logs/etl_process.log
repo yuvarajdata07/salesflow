@@ -1,0 +1,1303 @@
+2026-06-11 22:26:56,846-INFO-mysql  database connection is being established..
+2026-06-11 22:26:56,881-INFO-mysql database connection has established..
+2026-06-11 22:26:56,881-ERROR-Critical Error in test_data_extraction_from_sales_data_to_stage: module 'pandas' has no attribute 'read'
+2026-06-11 22:26:56,882-ERROR-error while sales data extraction checks..
+2026-06-11 22:26:56,883-INFO-mysql database connection has been closed..
+2026-06-11 22:29:30,066-INFO-mysql  database connection is being established..
+2026-06-11 22:29:30,084-INFO-mysql database connection has established..
+2026-06-11 22:29:30,085-ERROR-Critical Error in test_data_extraction_from_sales_data_to_stage: module 'pandas' has no attribute 'read'
+2026-06-11 22:29:30,086-ERROR-error while sales data extraction checks..
+2026-06-11 22:29:30,087-INFO-mysql database connection has been closed..
+2026-06-11 22:31:13,583-INFO-mysql  database connection is being established..
+2026-06-11 22:31:13,605-INFO-mysql database connection has established..
+2026-06-11 22:31:13,606-ERROR-Critical Error in test_data_extraction_from_sales_data_to_stage: module 'pandas' has no attribute 'read'
+2026-06-11 22:31:13,606-ERROR-error while sales data extraction checks..
+2026-06-11 22:31:13,610-INFO-mysql database connection has been closed..
+2026-06-11 22:43:18,065-INFO-mysql  database connection is being established..
+2026-06-11 22:43:18,083-INFO-mysql database connection has established..
+2026-06-11 22:43:18,084-ERROR-error while sales data extraction checks..
+2026-06-11 22:43:18,086-INFO-mysql database connection has been closed..
+2026-06-11 22:43:18,088-INFO-mysql  database connection is being established..
+2026-06-11 22:43:18,114-INFO-mysql database connection has established..
+2026-06-11 22:43:18,116-ERROR-error while Aggregator sales transformation checks..
+2026-06-11 22:43:18,118-INFO-mysql database connection has been closed..
+2026-06-11 22:45:52,085-INFO-mysql  database connection is being established..
+2026-06-11 22:45:52,106-INFO-mysql database connection has established..
+2026-06-11 22:45:52,108-ERROR-Critical Error in test_data_extraction_from_sales_data_to_stage: module 'pandas' has no attribute 'read'
+2026-06-11 22:45:52,108-ERROR-error while sales data extraction checks..
+2026-06-11 22:45:52,109-INFO-mysql database connection has been closed..
+2026-06-11 22:46:16,728-INFO-mysql  database connection is being established..
+2026-06-11 22:46:16,744-INFO-mysql database connection has established..
+2026-06-11 22:46:16,745-ERROR-error while sales data extraction checks..
+2026-06-11 22:46:16,746-INFO-mysql database connection has been closed..
+2026-06-11 22:46:16,748-INFO-mysql  database connection is being established..
+2026-06-11 22:46:16,755-INFO-mysql database connection has established..
+2026-06-11 22:46:16,756-ERROR-error while Aggregator sales transformation checks..
+2026-06-11 22:46:16,757-INFO-mysql database connection has been closed..
+2026-06-11 22:49:34,740-INFO-mysql  database connection is being established..
+2026-06-11 22:49:34,762-INFO-mysql database connection has established..
+2026-06-11 22:49:34,763-ERROR-error while sales data extraction checks..
+2026-06-11 22:49:34,766-INFO-mysql database connection has been closed..
+2026-06-11 22:49:34,768-INFO-mysql  database connection is being established..
+2026-06-11 22:49:34,794-INFO-mysql database connection has established..
+2026-06-11 22:49:34,795-ERROR-error while Aggregator sales transformation checks..
+2026-06-11 22:49:34,798-INFO-mysql database connection has been closed..
+2026-06-11 22:52:58,674-INFO-mysql  database connection is being established..
+2026-06-11 22:52:58,692-INFO-mysql database connection has established..
+2026-06-11 22:52:58,694-ERROR-Critical Error in test_data_extraction_from_sales_data_to_stage: module 'pandas' has no attribute 'read'
+2026-06-11 22:52:58,694-ERROR-error while sales data extraction checks..
+2026-06-11 22:52:58,696-INFO-mysql database connection has been closed..
+2026-06-11 22:54:41,306-INFO-mysql  database connection is being established..
+2026-06-11 22:54:41,321-INFO-mysql database connection has established..
+2026-06-11 22:54:41,322-ERROR-Critical Error in test_data_extraction_from_sales_data_to_stage: module 'pandas' has no attribute 'read'
+2026-06-11 22:54:41,322-ERROR-error while sales data extraction checks..
+2026-06-11 22:54:41,323-INFO-mysql database connection has been closed..
+2026-06-11 23:16:15,025-INFO-mysql  database connection is being established..
+2026-06-11 23:16:15,127-INFO-mysql database connection has established..
+2026-06-11 23:16:15,128-ERROR-Critical Error in test_data_extraction_from_sales_data_to_stage: module 'pandas' has no attribute 'read'
+2026-06-11 23:16:15,128-ERROR-error while sales data extraction checks..
+2026-06-11 23:16:15,130-INFO-mysql database connection has been closed..
+2026-06-11 23:28:18,703-INFO-mysql  database connection is being established..
+2026-06-11 23:28:18,781-INFO-mysql database connection has established..
+2026-06-11 23:28:18,781-ERROR-Critical Error in test_data_extraction_from_sales_data_to_stage: module 'pandas' has no attribute 'read'
+2026-06-11 23:28:18,781-ERROR-error while sales data extraction checks..module 'pandas' has no attribute 'read'
+2026-06-11 23:28:19,139-INFO-mysql database connection has been closed..
+2026-06-11 23:33:55,727-INFO-mysql  database connection is being established..
+2026-06-11 23:33:55,824-INFO-mysql database connection has established..
+2026-06-11 23:33:55,880-ERROR-Critical Error in test_data_extraction_from_sales_data_to_stage: (pymysql.err.ProgrammingError) (1146, "Table 'sales_reporting.stag_sales' doesn't exist")
+[SQL: select * from stag_sales]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-06-11 23:33:55,880-ERROR-error while sales data extraction checks..(pymysql.err.ProgrammingError) (1146, "Table 'sales_reporting.stag_sales' doesn't exist")
+[SQL: select * from stag_sales]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-06-11 23:33:56,877-INFO-mysql database connection has been closed..
+2026-06-11 23:35:32,447-INFO-mysql  database connection is being established..
+2026-06-11 23:35:32,525-INFO-mysql database connection has established..
+2026-06-11 23:35:32,617-ERROR-FAILURE: 61 rows found in FILE but missing in DB.
+2026-06-11 23:35:32,617-ERROR-Critical Error in test_data_extraction_from_sales_data_to_stage: Test Failed for test_data_extraction_from_sales_data_to_stage:
+FAILURE: 61 rows found in FILE but missing in DB.
+2026-06-11 23:35:32,617-ERROR-error while sales data extraction checks..Test Failed for test_data_extraction_from_sales_data_to_stage:
+FAILURE: 61 rows found in FILE but missing in DB.
+2026-06-11 23:35:32,966-INFO-mysql database connection has been closed..
+2026-06-11 23:39:25,150-INFO-mysql  database connection is being established..
+2026-06-11 23:39:25,228-INFO-mysql database connection has established..
+2026-06-11 23:39:25,263-ERROR-FAILURE: 1 rows found in FILE but missing in DB.
+2026-06-11 23:39:25,263-ERROR-Critical Error in test_data_extraction_from_sales_data_to_stage: Test Failed for test_data_extraction_from_sales_data_to_stage:
+FAILURE: 1 rows found in FILE but missing in DB.
+2026-06-11 23:39:25,263-ERROR-error while sales data extraction checks..Test Failed for test_data_extraction_from_sales_data_to_stage:
+FAILURE: 1 rows found in FILE but missing in DB.
+2026-06-11 23:39:25,569-INFO-mysql database connection has been closed..
+2026-06-12 11:00:46,778-INFO-mysql  database connection is being established..
+2026-06-12 11:00:47,048-INFO-mysql database connection has established..
+2026-06-12 11:00:47,248-ERROR-FAILURE: 1 rows found in FILE but missing in DB.
+2026-06-12 11:00:47,248-ERROR-Critical Error in test_data_extraction_from_sales_data_to_stage: Test Failed for test_data_extraction_from_sales_data_to_stage:
+FAILURE: 1 rows found in FILE but missing in DB.
+2026-06-12 11:00:47,248-ERROR-error while sales data extraction checks..Test Failed for test_data_extraction_from_sales_data_to_stage:
+FAILURE: 1 rows found in FILE but missing in DB.
+2026-06-12 11:00:47,948-INFO-mysql database connection has been closed..
+2026-06-12 11:03:24,322-INFO-mysql  database connection is being established..
+2026-06-12 11:03:24,502-INFO-mysql database connection has established..
+2026-06-12 11:03:24,564-INFO-Test test_data_extraction_from_sales_data_to_stage passed successfully.
+2026-06-12 11:03:24,565-INFO-mysql database connection has been closed..
+2026-06-12 11:08:57,513-INFO-mysql  database connection is being established..
+2026-06-12 11:08:57,702-INFO-mysql database connection has established..
+2026-06-12 11:08:57,702-ERROR-error while sales data extraction checks..
+2026-06-12 11:08:57,711-INFO-mysql database connection has been closed..
+2026-06-12 11:08:57,713-INFO-mysql  database connection is being established..
+2026-06-12 11:08:57,733-INFO-mysql database connection has established..
+2026-06-12 11:08:57,733-ERROR-error while Aggregator sales transformation checks..
+2026-06-12 11:08:57,742-INFO-mysql database connection has been closed..
+2026-06-12 11:10:12,136-INFO-mysql  database connection is being established..
+2026-06-12 11:10:12,314-INFO-mysql database connection has established..
+2026-06-12 11:10:12,314-ERROR-error while sales data extraction checks..
+2026-06-12 11:10:12,326-INFO-mysql database connection has been closed..
+2026-06-12 11:10:12,326-INFO-mysql  database connection is being established..
+2026-06-12 11:10:12,345-INFO-mysql database connection has established..
+2026-06-12 11:10:12,345-ERROR-error while Aggregator sales transformation checks..
+2026-06-12 11:10:12,355-INFO-mysql database connection has been closed..
+2026-06-12 11:36:06,041-INFO-mysql  database connection is being established..
+2026-06-12 11:36:06,149-INFO-mysql database connection has established..
+2026-06-12 11:36:06,150-ERROR-error while sales data extraction checks..name 'verify_expected_result_as_database_to_actual_result_as_database_table' is not defined
+2026-06-12 11:36:06,550-INFO-mysql database connection has been closed..
+2026-06-12 11:36:06,552-INFO-mysql  database connection is being established..
+2026-06-12 11:36:06,572-INFO-mysql database connection has established..
+2026-06-12 11:36:06,574-ERROR-error while Aggregator sales transformation checks..name 'verify_expected_result_as_database_to_actual_result_as_database_table' is not defined
+2026-06-12 11:36:06,581-INFO-mysql database connection has been closed..
+2026-06-12 11:38:39,454-INFO-mysql  database connection is being established..
+2026-06-12 11:38:39,581-INFO-mysql database connection has established..
+2026-06-12 11:38:39,582-ERROR-error while sales data extraction checks..name 'verify_expected_result_as_database_to_actual_result_as_database_table' is not defined
+2026-06-12 11:38:39,914-INFO-mysql database connection has been closed..
+2026-06-12 11:38:39,916-INFO-mysql  database connection is being established..
+2026-06-12 11:38:39,941-INFO-mysql database connection has established..
+2026-06-12 11:38:39,942-ERROR-error while Aggregator sales transformation checks..name 'verify_expected_result_as_database_to_actual_result_as_database_table' is not defined
+2026-06-12 11:38:39,951-INFO-mysql database connection has been closed..
+2026-06-12 11:49:50,142-INFO-mysql  database connection is being established..
+2026-06-12 11:49:50,244-INFO-mysql database connection has established..
+2026-06-12 11:49:50,246-ERROR-error while sales data extraction checks..name 'verify_expected_result_as_database_to_actual_result_as_database_table' is not defined
+2026-06-12 11:49:50,593-INFO-mysql database connection has been closed..
+2026-06-12 11:49:50,595-INFO-mysql  database connection is being established..
+2026-06-12 11:49:50,618-INFO-mysql database connection has established..
+2026-06-12 11:49:50,619-ERROR-error while Aggregator sales transformation checks..name 'verify_expected_result_as_database_to_actual_result_as_database_table' is not defined
+2026-06-12 11:49:50,624-INFO-mysql database connection has been closed..
+2026-06-12 11:56:10,578-INFO-mysql  database connection is being established..
+2026-06-12 11:56:10,693-INFO-mysql database connection has established..
+2026-06-12 11:56:10,735-INFO-Expected data in the file is:     sales_id  product_id  store_id  quantity  price   sale_date region
+0         10         110         4         9   17.0  2025-09-10    Low
+1         11         101         4        15   14.0  2025-09-11   High
+2         12         102         5         9   27.0  2025-09-12    Low
+3         13         103         6        10   22.0  2025-09-13   High
+4         14         104         7         8   31.0  2025-09-14    Low
+5         15         105         4        12   11.0  2025-09-15   High
+6         16         106         5         5   23.0  2025-09-16    Low
+7         17         107         6         3   26.0  2025-09-17   High
+8         18         108         7         6   28.0  2025-09-18    Low
+9         19         109         8        11   20.0  2025-09-19   High
+10        20         110         9         9   19.5  2025-09-20    Low
+11        21         101         1        14   15.5  2025-09-21   High
+12        22         102         2         8   22.0  2025-09-22    Low
+13        23         103         3         7   18.0  2025-09-23   High
+14        24         104         4         6   25.0  2025-09-24    Low
+15        25         105         2        12   13.5  2025-09-25   High
+16        26         106         3         5   21.0  2025-09-26    Low
+17        27         107         1        10   19.0  2025-09-27   High
+18        28         108         5         6   27.0  2025-09-28    Low
+19        29         109         6         9   24.0  2025-09-29   High
+20        30         110         7         7   23.5  2025-09-30    Low
+21        31         101         4        13   14.5  2025-10-01   High
+22        32         102         5         6   29.0  2025-10-02    Low
+23        33         103         6         8   21.0  2025-10-03   High
+24        34         104         7         5   30.0  2025-10-04    Low
+25        35         105         4         7   15.0  2025-10-05   High
+26        36         106         5         3   25.0  2025-10-06    Low
+27        37         107         6        12   18.0  2025-10-07   High
+28        38         108         7         9   20.0  2025-10-08    Low
+29        39         109         8        10   22.0  2025-10-09   High
+30        40         110         9         6   26.0  2025-10-10    Low
+31        41         101         3         5   15.0  2025-10-11   High
+32        42         102         4         4   20.0  2025-10-12    Low
+33        43         103         5         9   19.0  2025-10-13   High
+34        44         104         6         7   28.0  2025-10-14    Low
+35        45         105         7        10   25.0  2025-10-15   High
+36        46         106         8         8   22.5  2025-10-16    Low
+37        47         107         9         6   24.0  2025-10-17   High
+38        48         108         1         3   27.0  2025-10-18    Low
+39        49         109         2        11   18.5  2025-10-19   High
+40        50         110         3        12   21.0  2025-10-20    Low
+41        60         110         4         9   17.0  2025-09-10    Low
+2026-06-12 11:56:10,758-INFO-Actual data in the file is:     sales_id  product_id  store_id  quantity  price   sale_date region
+0         10         110         4         9   17.0  2025-09-10    Low
+1         11         101         4        15   14.0  2025-09-11   High
+2         12         102         5         9   27.0  2025-09-12    Low
+3         13         103         6        10   22.0  2025-09-13   High
+4         14         104         7         8   31.0  2025-09-14    Low
+5         15         105         4        12   11.0  2025-09-15   High
+6         16         106         5         5   23.0  2025-09-16    Low
+7         17         107         6         3   26.0  2025-09-17   High
+8         18         108         7         6   28.0  2025-09-18    Low
+9         19         109         8        11   20.0  2025-09-19   High
+10        20         110         9         9   19.5  2025-09-20    Low
+11        21         101         1        14   15.5  2025-09-21   High
+12        22         102         2         8   22.0  2025-09-22    Low
+13        23         103         3         7   18.0  2025-09-23   High
+14        24         104         4         6   25.0  2025-09-24    Low
+15        25         105         2        12   13.5  2025-09-25   High
+16        26         106         3         5   21.0  2025-09-26    Low
+17        27         107         1        10   19.0  2025-09-27   High
+18        28         108         5         6   27.0  2025-09-28    Low
+19        29         109         6         9   24.0  2025-09-29   High
+20        30         110         7         7   23.5  2025-09-30    Low
+21        31         101         4        13   14.5  2025-10-01   High
+22        32         102         5         6   29.0  2025-10-02    Low
+23        33         103         6         8   21.0  2025-10-03   High
+24        34         104         7         5   30.0  2025-10-04    Low
+25        35         105         4         7   15.0  2025-10-05   High
+26        36         106         5         3   25.0  2025-10-06    Low
+27        37         107         6        12   18.0  2025-10-07   High
+28        38         108         7         9   20.0  2025-10-08    Low
+29        39         109         8        10   22.0  2025-10-09   High
+30        40         110         9         6   26.0  2025-10-10    Low
+31        41         101         3         5   15.0  2025-10-11   High
+32        42         102         4         4   20.0  2025-10-12    Low
+33        43         103         5         9   19.0  2025-10-13   High
+34        44         104         6         7   28.0  2025-10-14    Low
+35        45         105         7        10   25.0  2025-10-15   High
+36        46         106         8         8   22.5  2025-10-16    Low
+37        47         107         9         6   24.0  2025-10-17   High
+38        48         108         1         3   27.0  2025-10-18    Low
+39        49         109         2        11   18.5  2025-10-19   High
+40        50         110         3        12   21.0  2025-10-20    Low
+41        60         110         4         9   17.0  2025-09-10    Low
+2026-06-12 11:56:10,773-INFO-Test test_data_transformation_filter_sales passed successfully.
+2026-06-12 11:56:10,776-INFO-mysql database connection has been closed..
+2026-06-12 11:56:10,778-INFO-mysql  database connection is being established..
+2026-06-12 11:56:10,793-INFO-mysql database connection has established..
+2026-06-12 11:56:10,809-INFO-Expected data in the file is:     product_id  year  month  total_sales
+0          110  2025      9        646.0
+1          101  2025      9        427.0
+2          102  2025      9        419.0
+3          103  2025      9        346.0
+4          104  2025      9        398.0
+5          105  2025      9        294.0
+6          106  2025      9        220.0
+7          107  2025      9        268.0
+8          108  2025      9        330.0
+9          109  2025      9        436.0
+10         101  2025     10        263.5
+11         102  2025     10        254.0
+12         103  2025     10        339.0
+13         104  2025     10        346.0
+14         105  2025     10        355.0
+15         106  2025     10        255.0
+16         107  2025     10        360.0
+17         108  2025     10        261.0
+18         109  2025     10        423.5
+19         110  2025     10        408.0
+2026-06-12 11:56:10,853-INFO-Actual data in the file is:     product_id  year  month  total_sales
+0          110  2025      9        646.0
+1          101  2025      9        427.0
+2          102  2025      9        419.0
+3          103  2025      9        346.0
+4          104  2025      9        398.0
+5          105  2025      9        294.0
+6          106  2025      9        220.0
+7          107  2025      9        268.0
+8          108  2025      9        330.0
+9          109  2025      9        436.0
+10         101  2025     10        263.5
+11         102  2025     10        254.0
+12         103  2025     10        339.0
+13         104  2025     10        346.0
+14         105  2025     10        355.0
+15         106  2025     10        255.0
+16         107  2025     10        360.0
+17         108  2025     10        261.0
+18         109  2025     10        423.5
+19         110  2025     10        408.0
+2026-06-12 11:56:10,866-INFO-Test test_data_transformation_Aggregator_sales passed successfully.
+2026-06-12 11:56:10,868-INFO-mysql database connection has been closed..
+2026-06-12 12:02:47,453-INFO-mysql  database connection is being established..
+2026-06-12 12:02:47,558-INFO-mysql database connection has established..
+2026-06-12 12:02:47,582-INFO-Expected data in the file is:     product_id  year  month  total_sales
+0          101  2025      9        427.0
+1          101  2025     10        263.5
+2          102  2025      9        419.0
+3          102  2025     10        254.0
+4          103  2025      9        346.0
+5          103  2025     10        339.0
+6          104  2025      9        398.0
+7          104  2025     10        346.0
+8          105  2025      9        294.0
+9          105  2025     10        355.0
+10         106  2025      9        220.0
+11         106  2025     10        255.0
+12         107  2025      9        268.0
+13         107  2025     10        360.0
+14         108  2025      9        330.0
+15         108  2025     10        261.0
+16         109  2025      9        436.0
+17         109  2025     10        423.5
+18         110  2025      9        646.0
+19         110  2025     10        408.0
+2026-06-12 12:02:47,596-INFO-Actual data in the file is:     product_id  year  month  total_sales
+0          101  2025      9        427.0
+1          101  2025     10        263.5
+2          102  2025      9        419.0
+3          102  2025     10        254.0
+4          103  2025      9        346.0
+5          103  2025     10        339.0
+6          104  2025      9        398.0
+7          104  2025     10        346.0
+8          105  2025      9        294.0
+9          105  2025     10        355.0
+10         106  2025      9        220.0
+11         106  2025     10        255.0
+12         107  2025      9        268.0
+13         107  2025     10        360.0
+14         108  2025      9        330.0
+15         108  2025     10        261.0
+16         109  2025      9        436.0
+17         109  2025     10        423.5
+18         110  2025      9        646.0
+19         110  2025     10        408.0
+2026-06-12 12:02:47,607-INFO-Test test_data_loading_monthly_sales_summary passed successfully.
+2026-06-12 12:02:47,609-INFO-mysql database connection has been closed..
+2026-06-12 12:03:13,626-INFO-mysql  database connection is being established..
+2026-06-12 12:03:13,734-INFO-mysql database connection has established..
+2026-06-12 12:03:13,755-INFO-Expected data in the file is:     product_id  year  month  total_sales
+0          101  2025      9        427.0
+1          101  2025     10        263.5
+2          102  2025      9        419.0
+3          102  2025     10        254.0
+4          103  2025      9        346.0
+5          103  2025     10        339.0
+6          104  2025      9        398.0
+7          104  2025     10        346.0
+8          105  2025      9        294.0
+9          105  2025     10        355.0
+10         106  2025      9        220.0
+11         106  2025     10        255.0
+12         107  2025      9        268.0
+13         107  2025     10        360.0
+14         108  2025      9        330.0
+15         108  2025     10        261.0
+16         109  2025      9        436.0
+17         109  2025     10        423.5
+18         110  2025      9        646.0
+19         110  2025     10        408.0
+2026-06-12 12:03:13,758-ERROR-Error in test_data_loading_monthly_sales_summary: (pymysql.err.ProgrammingError) (1146, "Table 'sales_reporting.monthly_sales_summary1' doesn't exist")
+[SQL: select product_id,year,month,total_sales from monthly_sales_summary1 order by product_id]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-06-12 12:03:13,758-ERROR-error while sales data loading checks..(pymysql.err.ProgrammingError) (1146, "Table 'sales_reporting.monthly_sales_summary1' doesn't exist")
+[SQL: select product_id,year,month,total_sales from monthly_sales_summary1 order by product_id]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-06-12 12:03:14,781-INFO-mysql database connection has been closed..
+2026-06-12 12:05:36,930-INFO-mysql  database connection is being established..
+2026-06-12 12:05:37,030-INFO-mysql database connection has established..
+2026-06-12 12:05:37,050-INFO-Expected data in the file is:     product_id  year  month  total_sales
+0          101  2025      9        427.0
+1          101  2025     10        263.5
+2          102  2025      9        419.0
+3          102  2025     10        254.0
+4          103  2025      9        346.0
+5          103  2025     10        339.0
+6          104  2025      9        398.0
+7          104  2025     10        346.0
+8          105  2025      9        294.0
+9          105  2025     10        355.0
+10         106  2025      9        220.0
+11         106  2025     10        255.0
+12         107  2025      9        268.0
+13         107  2025     10        360.0
+14         108  2025      9        330.0
+15         108  2025     10        261.0
+16         109  2025      9        436.0
+17         109  2025     10        423.5
+18         110  2025      9        646.0
+19         110  2025     10        408.0
+2026-06-12 12:05:37,061-INFO-Actual data in the file is:     product_id  year  month  total_sales
+0          101  2025      9        427.0
+1          101  2025     10        263.5
+2          102  2025      9        419.0
+3          102  2025     10        254.0
+4          103  2025      9        346.0
+5          103  2025     10        339.0
+6          104  2025      9        398.0
+7          104  2025     10        346.0
+8          105  2025      9        294.0
+9          105  2025     10        355.0
+10         106  2025      9        220.0
+11         106  2025     10        255.0
+12         107  2025      9        268.0
+13         107  2025     10        360.0
+14         108  2025      9        330.0
+15         108  2025     10        261.0
+16         109  2025      9        436.0
+17         109  2025     10        423.5
+18         110  2025      9        646.0
+19         110  2025     10        408.0
+2026-06-12 12:05:37,075-INFO-Test test_data_loading_monthly_sales_summary passed successfully.
+2026-06-12 12:05:37,077-INFO-mysql database connection has been closed..
+2026-06-12 12:15:26,767-INFO-mysql  database connection is being established..
+2026-06-12 12:15:26,878-INFO-mysql database connection has established..
+2026-06-12 12:15:26,879-ERROR-error while table existence check checks..name 'database_tables_exists' is not defined
+2026-06-12 12:15:27,250-INFO-mysql database connection has been closed..
+2026-06-12 12:15:27,252-INFO-mysql  database connection is being established..
+2026-06-12 12:15:27,278-INFO-mysql database connection has established..
+2026-06-12 12:15:27,279-INFO-Starting execution of: test_data_types_of_columns_in_the_monthly_sales_summary
+2026-06-12 12:15:27,300-INFO-mysql database connection has been closed..
+2026-06-12 12:18:22,950-INFO-mysql  database connection is being established..
+2026-06-12 12:18:23,060-INFO-mysql database connection has established..
+2026-06-12 12:18:23,073-INFO-the actual tables are :['filtered_sales', 'monthly_sales_summary', 'monthly_sales_summary_source', 'stag_sales']
+2026-06-12 12:18:23,075-INFO-mysql database connection has been closed..
+2026-06-12 12:18:23,078-INFO-mysql  database connection is being established..
+2026-06-12 12:18:23,107-INFO-mysql database connection has established..
+2026-06-12 12:18:23,108-INFO-Starting execution of: test_data_types_of_columns_in_the_monthly_sales_summary
+2026-06-12 12:18:23,126-INFO-mysql database connection has been closed..
+2026-06-12 12:19:07,493-INFO-mysql  database connection is being established..
+2026-06-12 12:19:07,603-INFO-mysql database connection has established..
+2026-06-12 12:19:07,616-INFO-the actual tables are :['filtered_sales', 'monthly_sales_summary', 'monthly_sales_summary_source', 'stag_sales']
+2026-06-12 12:19:07,617-ERROR-error while table existence check checks..missing table list is ['monthly_sales_summary1'] - Please check
+assert 1 == 0
+ +  where 1 = len(['monthly_sales_summary1'])
+2026-06-12 12:19:07,972-INFO-mysql database connection has been closed..
+2026-06-12 12:19:07,973-INFO-mysql  database connection is being established..
+2026-06-12 12:19:07,988-INFO-mysql database connection has established..
+2026-06-12 12:19:07,989-INFO-Starting execution of: test_data_types_of_columns_in_the_monthly_sales_summary
+2026-06-12 12:19:08,004-ERROR-Error occurred during data type check for monthly_sales_summary: `sales_reporting`.`monthly_sales_summary1`
+2026-06-12 12:19:08,771-INFO-mysql database connection has been closed..
+2026-06-12 12:22:18,430-INFO-mysql  database connection is being established..
+2026-06-12 12:22:18,544-INFO-mysql database connection has established..
+2026-06-12 12:22:18,555-INFO-the actual tables are :['filtered_sales', 'monthly_sales_summary', 'monthly_sales_summary_source', 'stag_sales']
+2026-06-12 12:22:18,557-INFO-mysql database connection has been closed..
+2026-06-12 12:22:18,559-INFO-mysql  database connection is being established..
+2026-06-12 12:22:18,569-INFO-mysql database connection has established..
+2026-06-12 12:22:18,570-INFO-Starting execution of: test_data_types_of_columns_in_the_monthly_sales_summary
+2026-06-12 12:22:18,587-INFO-mysql database connection has been closed..
+2026-06-12 17:50:43,988-INFO-The data in the file is :     sales_id  product_id  store_id  quantity  price   sale_date region
+0          1         101         1        10   15.0  2025-09-01   High
+1          2         102         1         5   25.0  2025-09-01    Low
+2          3         103         2         7   20.0  2025-09-02   High
+3          4         104         2         3   30.0  2025-09-03    Low
+4          5         105         1        12   12.0  2025-09-05   High
+5          6         106         3         8   18.0  2025-09-06    Low
+6          7         107         1         4   22.0  2025-09-07   High
+7          8         108         2         6   24.0  2025-09-08    Low
+8          9         109         3        11   19.0  2025-09-09   High
+9         10         110         4         9   17.0  2025-09-10    Low
+10        11         101         4        15   14.0  2025-09-11   High
+11        12         102         5         9   27.0  2025-09-12    Low
+12        13         103         6        10   22.0  2025-09-13   High
+13        14         104         7         8   31.0  2025-09-14    Low
+14        15         105         4        12   11.0  2025-09-15   High
+15        16         106         5         5   23.0  2025-09-16    Low
+16        17         107         6         3   26.0  2025-09-17   High
+17        18         108         7         6   28.0  2025-09-18    Low
+18        19         109         8        11   20.0  2025-09-19   High
+19        20         110         9         9   19.5  2025-09-20    Low
+20        21         101         1        14   15.5  2025-09-21   High
+21        22         102         2         8   22.0  2025-09-22    Low
+22        23         103         3         7   18.0  2025-09-23   High
+23        24         104         4         6   25.0  2025-09-24    Low
+24        25         105         2        12   13.5  2025-09-25   High
+25        26         106         3         5   21.0  2025-09-26    Low
+26        27         107         1        10   19.0  2025-09-27   High
+27        28         108         5         6   27.0  2025-09-28    Low
+28        29         109         6         9   24.0  2025-09-29   High
+29        30         110         7         7   23.5  2025-09-30    Low
+30        31         101         4        13   14.5  2025-10-01   High
+31        32         102         5         6   29.0  2025-10-02    Low
+32        33         103         6         8   21.0  2025-10-03   High
+33        34         104         7         5   30.0  2025-10-04    Low
+34        35         105         4         7   15.0  2025-10-05   High
+35        36         106         5         3   25.0  2025-10-06    Low
+36        37         107         6        12   18.0  2025-10-07   High
+37        38         108         7         9   20.0  2025-10-08    Low
+38        39         109         8        10   22.0  2025-10-09   High
+39        40         110         9         6   26.0  2025-10-10    Low
+40        41         101         3         5   15.0  2025-10-11   High
+41        42         102         4         4   20.0  2025-10-12    Low
+42        43         103         5         9   19.0  2025-10-13   High
+43        44         104         6         7   28.0  2025-10-14    Low
+44        45         105         7        10   25.0  2025-10-15   High
+45        46         106         8         8   22.5  2025-10-16    Low
+46        47         107         9         6   24.0  2025-10-17   High
+47        48         108         1         3   27.0  2025-10-18    Low
+48        49         109         2        11   18.5  2025-10-19   High
+49        50         110         3        12   21.0  2025-10-20    Low
+50        51         101         1        10   15.0  2025-08-01   High
+51        52         101         1         5   25.0  2025-08-01    Low
+52        53         101         2         7   20.0  2023-09-02   High
+53        54         101         2         3   30.0  2023-09-03    Low
+54        55         105         1        12   12.0  2025-09-05   High
+55        56         106         3         8   18.0  2025-09-06    Low
+56        57         107         1         4   22.0  2025-09-07   High
+57        58         108         2         6   24.0  2025-09-08    Low
+58        59         109         3        11   19.0  2025-09-09   High
+59        60         110         4         9   17.0  2025-09-10    Low
+2026-06-12 17:50:44,027-INFO-The data in the file is :     sales_id  product_id  store_id  quantity  price   sale_date region
+0          1         101         1        10   15.0  2025-09-01   High
+1          2         102         1         5   25.0  2025-09-01    Low
+2          3         103         2         7   20.0  2025-09-02   High
+3          4         104         2         3   30.0  2025-09-03    Low
+4          5         105         1        12   12.0  2025-09-05   High
+5          6         106         3         8   18.0  2025-09-06    Low
+6          7         107         1         4   22.0  2025-09-07   High
+7          8         108         2         6   24.0  2025-09-08    Low
+8          9         109         3        11   19.0  2025-09-09   High
+9         10         110         4         9   17.0  2025-09-10    Low
+10        11         101         4        15   14.0  2025-09-11   High
+11        12         102         5         9   27.0  2025-09-12    Low
+12        13         103         6        10   22.0  2025-09-13   High
+13        14         104         7         8   31.0  2025-09-14    Low
+14        15         105         4        12   11.0  2025-09-15   High
+15        16         106         5         5   23.0  2025-09-16    Low
+16        17         107         6         3   26.0  2025-09-17   High
+17        18         108         7         6   28.0  2025-09-18    Low
+18        19         109         8        11   20.0  2025-09-19   High
+19        20         110         9         9   19.5  2025-09-20    Low
+20        21         101         1        14   15.5  2025-09-21   High
+21        22         102         2         8   22.0  2025-09-22    Low
+22        23         103         3         7   18.0  2025-09-23   High
+23        24         104         4         6   25.0  2025-09-24    Low
+24        25         105         2        12   13.5  2025-09-25   High
+25        26         106         3         5   21.0  2025-09-26    Low
+26        27         107         1        10   19.0  2025-09-27   High
+27        28         108         5         6   27.0  2025-09-28    Low
+28        29         109         6         9   24.0  2025-09-29   High
+29        30         110         7         7   23.5  2025-09-30    Low
+30        31         101         4        13   14.5  2025-10-01   High
+31        32         102         5         6   29.0  2025-10-02    Low
+32        33         103         6         8   21.0  2025-10-03   High
+33        34         104         7         5   30.0  2025-10-04    Low
+34        35         105         4         7   15.0  2025-10-05   High
+35        36         106         5         3   25.0  2025-10-06    Low
+36        37         107         6        12   18.0  2025-10-07   High
+37        38         108         7         9   20.0  2025-10-08    Low
+38        39         109         8        10   22.0  2025-10-09   High
+39        40         110         9         6   26.0  2025-10-10    Low
+40        41         101         3         5   15.0  2025-10-11   High
+41        42         102         4         4   20.0  2025-10-12    Low
+42        43         103         5         9   19.0  2025-10-13   High
+43        44         104         6         7   28.0  2025-10-14    Low
+44        45         105         7        10   25.0  2025-10-15   High
+45        46         106         8         8   22.5  2025-10-16    Low
+46        47         107         9         6   24.0  2025-10-17   High
+47        48         108         1         3   27.0  2025-10-18    Low
+48        49         109         2        11   18.5  2025-10-19   High
+49        50         110         3        12   21.0  2025-10-20    Low
+50        51         101         1        10   15.0  2025-08-01   High
+51        52         101         1         5   25.0  2025-08-01    Low
+52        53         101         2         7   20.0  2023-09-02   High
+53        54         101         2         3   30.0  2023-09-03    Low
+54        55         105         1        12   12.0  2025-09-05   High
+55        56         106         3         8   18.0  2025-09-06    Low
+56        57         107         1         4   22.0  2025-09-07   High
+57        58         108         2         6   24.0  2025-09-08    Low
+58        59         109         3        11   19.0  2025-09-09   High
+59        60         110         4         9   17.0  2025-09-10    Low
+2026-06-12 17:50:44,030-INFO-mysql  database connection is being established..
+2026-06-12 17:50:44,182-INFO-mysql database connection has established..
+2026-06-12 17:50:44,183-INFO-Checking for duplicates in product_id for table monthly_sales_summary
+2026-06-12 17:50:44,228-WARNING-Duplicates found in product_id. Examples: [(101, 2), (102, 2), (103, 2), (104, 2), (105, 2)]
+2026-06-12 17:50:44,230-INFO-mysql database connection has been closed..
+2026-06-12 17:50:44,232-INFO-mysql  database connection is being established..
+2026-06-12 17:50:44,260-INFO-mysql database connection has established..
+2026-06-12 17:50:44,261-INFO-Starting Duplicate Validation for monthly_sales_summary
+2026-06-12 17:50:44,793-INFO-mysql database connection has been closed..
+2026-06-12 17:50:44,810-INFO-The data in the file is :     sales_id  product_id  store_id  quantity  price   sale_date region
+0          1         101         1        10   15.0  2025-09-01   High
+1          2         102         1         5   25.0  2025-09-01    Low
+2          3         103         2         7   20.0  2025-09-02   High
+3          4         104         2         3   30.0  2025-09-03    Low
+4          5         105         1        12   12.0  2025-09-05   High
+5          6         106         3         8   18.0  2025-09-06    Low
+6          7         107         1         4   22.0  2025-09-07   High
+7          8         108         2         6   24.0  2025-09-08    Low
+8          9         109         3        11   19.0  2025-09-09   High
+9         10         110         4         9   17.0  2025-09-10    Low
+10        11         101         4        15   14.0  2025-09-11   High
+11        12         102         5         9   27.0  2025-09-12    Low
+12        13         103         6        10   22.0  2025-09-13   High
+13        14         104         7         8   31.0  2025-09-14    Low
+14        15         105         4        12   11.0  2025-09-15   High
+15        16         106         5         5   23.0  2025-09-16    Low
+16        17         107         6         3   26.0  2025-09-17   High
+17        18         108         7         6   28.0  2025-09-18    Low
+18        19         109         8        11   20.0  2025-09-19   High
+19        20         110         9         9   19.5  2025-09-20    Low
+20        21         101         1        14   15.5  2025-09-21   High
+21        22         102         2         8   22.0  2025-09-22    Low
+22        23         103         3         7   18.0  2025-09-23   High
+23        24         104         4         6   25.0  2025-09-24    Low
+24        25         105         2        12   13.5  2025-09-25   High
+25        26         106         3         5   21.0  2025-09-26    Low
+26        27         107         1        10   19.0  2025-09-27   High
+27        28         108         5         6   27.0  2025-09-28    Low
+28        29         109         6         9   24.0  2025-09-29   High
+29        30         110         7         7   23.5  2025-09-30    Low
+30        31         101         4        13   14.5  2025-10-01   High
+31        32         102         5         6   29.0  2025-10-02    Low
+32        33         103         6         8   21.0  2025-10-03   High
+33        34         104         7         5   30.0  2025-10-04    Low
+34        35         105         4         7   15.0  2025-10-05   High
+35        36         106         5         3   25.0  2025-10-06    Low
+36        37         107         6        12   18.0  2025-10-07   High
+37        38         108         7         9   20.0  2025-10-08    Low
+38        39         109         8        10   22.0  2025-10-09   High
+39        40         110         9         6   26.0  2025-10-10    Low
+40        41         101         3         5   15.0  2025-10-11   High
+41        42         102         4         4   20.0  2025-10-12    Low
+42        43         103         5         9   19.0  2025-10-13   High
+43        44         104         6         7   28.0  2025-10-14    Low
+44        45         105         7        10   25.0  2025-10-15   High
+45        46         106         8         8   22.5  2025-10-16    Low
+46        47         107         9         6   24.0  2025-10-17   High
+47        48         108         1         3   27.0  2025-10-18    Low
+48        49         109         2        11   18.5  2025-10-19   High
+49        50         110         3        12   21.0  2025-10-20    Low
+50        51         101         1        10   15.0  2025-08-01   High
+51        52         101         1         5   25.0  2025-08-01    Low
+52        53         101         2         7   20.0  2023-09-02   High
+53        54         101         2         3   30.0  2023-09-03    Low
+54        55         105         1        12   12.0  2025-09-05   High
+55        56         106         3         8   18.0  2025-09-06    Low
+56        57         107         1         4   22.0  2025-09-07   High
+57        58         108         2         6   24.0  2025-09-08    Low
+58        59         109         3        11   19.0  2025-09-09   High
+59        60         110         4         9   17.0  2025-09-10    Low
+2026-06-12 17:50:44,815-INFO-mysql  database connection is being established..
+2026-06-12 17:50:44,840-INFO-mysql database connection has established..
+2026-06-12 17:50:44,841-INFO-Starting NULL value validation for monthly_sales_summary.product_id
+2026-06-12 17:50:44,843-INFO-NULL check passed for monthly_sales_summary.product_id
+2026-06-12 17:50:44,844-INFO-mysql database connection has been closed..
+2026-06-12 17:59:21,225-INFO-The data in the file is :     sales_id  product_id  store_id  quantity  price   sale_date region
+0          1         101         1        10   15.0  2025-09-01   High
+1          2         102         1         5   25.0  2025-09-01    Low
+2          3         103         2         7   20.0  2025-09-02   High
+3          4         104         2         3   30.0  2025-09-03    Low
+4          5         105         1        12   12.0  2025-09-05   High
+5          6         106         3         8   18.0  2025-09-06    Low
+6          7         107         1         4   22.0  2025-09-07   High
+7          8         108         2         6   24.0  2025-09-08    Low
+8          9         109         3        11   19.0  2025-09-09   High
+9         10         110         4         9   17.0  2025-09-10    Low
+10        11         101         4        15   14.0  2025-09-11   High
+11        12         102         5         9   27.0  2025-09-12    Low
+12        13         103         6        10   22.0  2025-09-13   High
+13        14         104         7         8   31.0  2025-09-14    Low
+14        15         105         4        12   11.0  2025-09-15   High
+15        16         106         5         5   23.0  2025-09-16    Low
+16        17         107         6         3   26.0  2025-09-17   High
+17        18         108         7         6   28.0  2025-09-18    Low
+18        19         109         8        11   20.0  2025-09-19   High
+19        20         110         9         9   19.5  2025-09-20    Low
+20        21         101         1        14   15.5  2025-09-21   High
+21        22         102         2         8   22.0  2025-09-22    Low
+22        23         103         3         7   18.0  2025-09-23   High
+23        24         104         4         6   25.0  2025-09-24    Low
+24        25         105         2        12   13.5  2025-09-25   High
+25        26         106         3         5   21.0  2025-09-26    Low
+26        27         107         1        10   19.0  2025-09-27   High
+27        28         108         5         6   27.0  2025-09-28    Low
+28        29         109         6         9   24.0  2025-09-29   High
+29        30         110         7         7   23.5  2025-09-30    Low
+30        31         101         4        13   14.5  2025-10-01   High
+31        32         102         5         6   29.0  2025-10-02    Low
+32        33         103         6         8   21.0  2025-10-03   High
+33        34         104         7         5   30.0  2025-10-04    Low
+34        35         105         4         7   15.0  2025-10-05   High
+35        36         106         5         3   25.0  2025-10-06    Low
+36        37         107         6        12   18.0  2025-10-07   High
+37        38         108         7         9   20.0  2025-10-08    Low
+38        39         109         8        10   22.0  2025-10-09   High
+39        40         110         9         6   26.0  2025-10-10    Low
+40        41         101         3         5   15.0  2025-10-11   High
+41        42         102         4         4   20.0  2025-10-12    Low
+42        43         103         5         9   19.0  2025-10-13   High
+43        44         104         6         7   28.0  2025-10-14    Low
+44        45         105         7        10   25.0  2025-10-15   High
+45        46         106         8         8   22.5  2025-10-16    Low
+46        47         107         9         6   24.0  2025-10-17   High
+47        48         108         1         3   27.0  2025-10-18    Low
+48        49         109         2        11   18.5  2025-10-19   High
+49        50         110         3        12   21.0  2025-10-20    Low
+50        51         101         1        10   15.0  2025-08-01   High
+51        52         101         1         5   25.0  2025-08-01    Low
+52        53         101         2         7   20.0  2023-09-02   High
+53        54         101         2         3   30.0  2023-09-03    Low
+54        55         105         1        12   12.0  2025-09-05   High
+55        56         106         3         8   18.0  2025-09-06    Low
+56        57         107         1         4   22.0  2025-09-07   High
+57        58         108         2         6   24.0  2025-09-08    Low
+58        59         109         3        11   19.0  2025-09-09   High
+59        60         110         4         9   17.0  2025-09-10    Low
+2026-06-12 17:59:21,251-INFO-The data in the file is :     sales_id  product_id  store_id  quantity  price   sale_date region
+0          1         101         1        10   15.0  2025-09-01   High
+1          2         102         1         5   25.0  2025-09-01    Low
+2          3         103         2         7   20.0  2025-09-02   High
+3          4         104         2         3   30.0  2025-09-03    Low
+4          5         105         1        12   12.0  2025-09-05   High
+5          6         106         3         8   18.0  2025-09-06    Low
+6          7         107         1         4   22.0  2025-09-07   High
+7          8         108         2         6   24.0  2025-09-08    Low
+8          9         109         3        11   19.0  2025-09-09   High
+9         10         110         4         9   17.0  2025-09-10    Low
+10        11         101         4        15   14.0  2025-09-11   High
+11        12         102         5         9   27.0  2025-09-12    Low
+12        13         103         6        10   22.0  2025-09-13   High
+13        14         104         7         8   31.0  2025-09-14    Low
+14        15         105         4        12   11.0  2025-09-15   High
+15        16         106         5         5   23.0  2025-09-16    Low
+16        17         107         6         3   26.0  2025-09-17   High
+17        18         108         7         6   28.0  2025-09-18    Low
+18        19         109         8        11   20.0  2025-09-19   High
+19        20         110         9         9   19.5  2025-09-20    Low
+20        21         101         1        14   15.5  2025-09-21   High
+21        22         102         2         8   22.0  2025-09-22    Low
+22        23         103         3         7   18.0  2025-09-23   High
+23        24         104         4         6   25.0  2025-09-24    Low
+24        25         105         2        12   13.5  2025-09-25   High
+25        26         106         3         5   21.0  2025-09-26    Low
+26        27         107         1        10   19.0  2025-09-27   High
+27        28         108         5         6   27.0  2025-09-28    Low
+28        29         109         6         9   24.0  2025-09-29   High
+29        30         110         7         7   23.5  2025-09-30    Low
+30        31         101         4        13   14.5  2025-10-01   High
+31        32         102         5         6   29.0  2025-10-02    Low
+32        33         103         6         8   21.0  2025-10-03   High
+33        34         104         7         5   30.0  2025-10-04    Low
+34        35         105         4         7   15.0  2025-10-05   High
+35        36         106         5         3   25.0  2025-10-06    Low
+36        37         107         6        12   18.0  2025-10-07   High
+37        38         108         7         9   20.0  2025-10-08    Low
+38        39         109         8        10   22.0  2025-10-09   High
+39        40         110         9         6   26.0  2025-10-10    Low
+40        41         101         3         5   15.0  2025-10-11   High
+41        42         102         4         4   20.0  2025-10-12    Low
+42        43         103         5         9   19.0  2025-10-13   High
+43        44         104         6         7   28.0  2025-10-14    Low
+44        45         105         7        10   25.0  2025-10-15   High
+45        46         106         8         8   22.5  2025-10-16    Low
+46        47         107         9         6   24.0  2025-10-17   High
+47        48         108         1         3   27.0  2025-10-18    Low
+48        49         109         2        11   18.5  2025-10-19   High
+49        50         110         3        12   21.0  2025-10-20    Low
+50        51         101         1        10   15.0  2025-08-01   High
+51        52         101         1         5   25.0  2025-08-01    Low
+52        53         101         2         7   20.0  2023-09-02   High
+53        54         101         2         3   30.0  2023-09-03    Low
+54        55         105         1        12   12.0  2025-09-05   High
+55        56         106         3         8   18.0  2025-09-06    Low
+56        57         107         1         4   22.0  2025-09-07   High
+57        58         108         2         6   24.0  2025-09-08    Low
+58        59         109         3        11   19.0  2025-09-09   High
+59        60         110         4         9   17.0  2025-09-10    Low
+2026-06-12 17:59:21,259-INFO-mysql  database connection is being established..
+2026-06-12 17:59:21,357-INFO-mysql database connection has established..
+2026-06-12 17:59:21,358-INFO-Checking for duplicates in product_id for table monthly_sales_summary
+2026-06-12 17:59:21,360-WARNING-Duplicates found in product_id. Examples: [(101, 2), (102, 2), (103, 2), (104, 2), (105, 2)]
+2026-06-12 17:59:21,362-INFO-mysql database connection has been closed..
+2026-06-12 17:59:21,364-INFO-mysql  database connection is being established..
+2026-06-12 17:59:21,397-INFO-mysql database connection has established..
+2026-06-12 17:59:21,398-INFO-Starting Duplicate Validation for monthly_sales_summary
+2026-06-12 17:59:21,809-INFO-mysql database connection has been closed..
+2026-06-12 17:59:21,832-INFO-The data in the file is :     sales_id  product_id  store_id  quantity  price   sale_date region
+0          1         101         1        10   15.0  2025-09-01   High
+1          2         102         1         5   25.0  2025-09-01    Low
+2          3         103         2         7   20.0  2025-09-02   High
+3          4         104         2         3   30.0  2025-09-03    Low
+4          5         105         1        12   12.0  2025-09-05   High
+5          6         106         3         8   18.0  2025-09-06    Low
+6          7         107         1         4   22.0  2025-09-07   High
+7          8         108         2         6   24.0  2025-09-08    Low
+8          9         109         3        11   19.0  2025-09-09   High
+9         10         110         4         9   17.0  2025-09-10    Low
+10        11         101         4        15   14.0  2025-09-11   High
+11        12         102         5         9   27.0  2025-09-12    Low
+12        13         103         6        10   22.0  2025-09-13   High
+13        14         104         7         8   31.0  2025-09-14    Low
+14        15         105         4        12   11.0  2025-09-15   High
+15        16         106         5         5   23.0  2025-09-16    Low
+16        17         107         6         3   26.0  2025-09-17   High
+17        18         108         7         6   28.0  2025-09-18    Low
+18        19         109         8        11   20.0  2025-09-19   High
+19        20         110         9         9   19.5  2025-09-20    Low
+20        21         101         1        14   15.5  2025-09-21   High
+21        22         102         2         8   22.0  2025-09-22    Low
+22        23         103         3         7   18.0  2025-09-23   High
+23        24         104         4         6   25.0  2025-09-24    Low
+24        25         105         2        12   13.5  2025-09-25   High
+25        26         106         3         5   21.0  2025-09-26    Low
+26        27         107         1        10   19.0  2025-09-27   High
+27        28         108         5         6   27.0  2025-09-28    Low
+28        29         109         6         9   24.0  2025-09-29   High
+29        30         110         7         7   23.5  2025-09-30    Low
+30        31         101         4        13   14.5  2025-10-01   High
+31        32         102         5         6   29.0  2025-10-02    Low
+32        33         103         6         8   21.0  2025-10-03   High
+33        34         104         7         5   30.0  2025-10-04    Low
+34        35         105         4         7   15.0  2025-10-05   High
+35        36         106         5         3   25.0  2025-10-06    Low
+36        37         107         6        12   18.0  2025-10-07   High
+37        38         108         7         9   20.0  2025-10-08    Low
+38        39         109         8        10   22.0  2025-10-09   High
+39        40         110         9         6   26.0  2025-10-10    Low
+40        41         101         3         5   15.0  2025-10-11   High
+41        42         102         4         4   20.0  2025-10-12    Low
+42        43         103         5         9   19.0  2025-10-13   High
+43        44         104         6         7   28.0  2025-10-14    Low
+44        45         105         7        10   25.0  2025-10-15   High
+45        46         106         8         8   22.5  2025-10-16    Low
+46        47         107         9         6   24.0  2025-10-17   High
+47        48         108         1         3   27.0  2025-10-18    Low
+48        49         109         2        11   18.5  2025-10-19   High
+49        50         110         3        12   21.0  2025-10-20    Low
+50        51         101         1        10   15.0  2025-08-01   High
+51        52         101         1         5   25.0  2025-08-01    Low
+52        53         101         2         7   20.0  2023-09-02   High
+53        54         101         2         3   30.0  2023-09-03    Low
+54        55         105         1        12   12.0  2025-09-05   High
+55        56         106         3         8   18.0  2025-09-06    Low
+56        57         107         1         4   22.0  2025-09-07   High
+57        58         108         2         6   24.0  2025-09-08    Low
+58        59         109         3        11   19.0  2025-09-09   High
+59        60         110         4         9   17.0  2025-09-10    Low
+2026-06-12 17:59:21,835-INFO-mysql  database connection is being established..
+2026-06-12 17:59:21,862-INFO-mysql database connection has established..
+2026-06-12 17:59:21,863-INFO-Starting NULL value validation for monthly_sales_summary.product_id
+2026-06-12 17:59:21,864-INFO-NULL check passed for monthly_sales_summary.product_id
+2026-06-12 17:59:21,866-INFO-mysql database connection has been closed..
+2026-06-12 18:32:36,086-INFO-mysql  database connection is being established..
+2026-06-12 18:32:36,193-INFO-mysql database connection has established..
+2026-06-12 18:32:36,195-ERROR-error while sales data extraction checks..
+2026-06-12 18:32:36,198-INFO-mysql database connection has been closed..
+2026-06-12 18:32:36,201-INFO-mysql  database connection is being established..
+2026-06-12 18:32:36,209-INFO-mysql database connection has established..
+2026-06-12 18:32:36,210-ERROR-error while Aggregator sales transformation checks..
+2026-06-12 18:32:36,213-INFO-mysql database connection has been closed..
+2026-06-12 18:41:14,413-INFO-mysql  database connection is being established..
+2026-06-12 18:41:14,520-INFO-mysql database connection has established..
+2026-06-12 18:41:14,557-INFO-Expected data in the file is:    product_id  year  month  total_sales
+0         101  2025     10        263.5
+1         102  2025     10        254.0
+2         103  2025     10        339.0
+3         104  2025     10        346.0
+4         105  2025     10        355.0
+5         106  2025     10        255.0
+6         107  2025     10        360.0
+7         108  2025     10        261.0
+8         109  2025     10        423.5
+9         110  2025     10        408.0
+2026-06-12 18:41:14,565-INFO-Actual data in the file is:    product_id  year  month  total_sales
+0         101  2025     10        263.5
+1         102  2025     10        254.0
+2         103  2025     10        339.0
+3         104  2025     10        346.0
+4         105  2025     10        355.0
+5         106  2025     10        255.0
+6         107  2025     10        360.0
+7         108  2025     10        261.0
+8         109  2025     10        423.5
+9         110  2025     10        408.0
+2026-06-12 18:41:14,608-INFO-Test test_data_loading_monthly_sales_summary passed successfully.
+2026-06-12 18:41:14,611-INFO-mysql database connection has been closed..
+2026-06-12 18:49:44,113-INFO-The data in the file is :     sales_id  product_id  store_id  quantity  price   sale_date region
+0          1         101         1        10   15.0  2025-09-01   High
+1          2         102         1         5   25.0  2025-09-01    Low
+2          3         103         2         7   20.0  2025-09-02   High
+3          4         104         2         3   30.0  2025-09-03    Low
+4          5         105         1        12   12.0  2025-09-05   High
+5          6         106         3         8   18.0  2025-09-06    Low
+6          7         107         1         4   22.0  2025-09-07   High
+7          8         108         2         6   24.0  2025-09-08    Low
+8          9         109         3        11   19.0  2025-09-09   High
+9         10         110         4         9   17.0  2025-09-10    Low
+10        11         101         4        15   14.0  2025-09-11   High
+11        12         102         5         9   27.0  2025-09-12    Low
+12        13         103         6        10   22.0  2025-09-13   High
+13        14         104         7         8   31.0  2025-09-14    Low
+14        15         105         4        12   11.0  2025-09-15   High
+15        16         106         5         5   23.0  2025-09-16    Low
+16        17         107         6         3   26.0  2025-09-17   High
+17        18         108         7         6   28.0  2025-09-18    Low
+18        19         109         8        11   20.0  2025-09-19   High
+19        20         110         9         9   19.5  2025-09-20    Low
+20        21         101         1        14   15.5  2025-09-21   High
+21        22         102         2         8   22.0  2025-09-22    Low
+22        23         103         3         7   18.0  2025-09-23   High
+23        24         104         4         6   25.0  2025-09-24    Low
+24        25         105         2        12   13.5  2025-09-25   High
+25        26         106         3         5   21.0  2025-09-26    Low
+26        27         107         1        10   19.0  2025-09-27   High
+27        28         108         5         6   27.0  2025-09-28    Low
+28        29         109         6         9   24.0  2025-09-29   High
+29        30         110         7         7   23.5  2025-09-30    Low
+30        31         101         4        13   14.5  2025-10-01   High
+31        32         102         5         6   29.0  2025-10-02    Low
+32        33         103         6         8   21.0  2025-10-03   High
+33        34         104         7         5   30.0  2025-10-04    Low
+34        35         105         4         7   15.0  2025-10-05   High
+35        36         106         5         3   25.0  2025-10-06    Low
+36        37         107         6        12   18.0  2025-10-07   High
+37        38         108         7         9   20.0  2025-10-08    Low
+38        39         109         8        10   22.0  2025-10-09   High
+39        40         110         9         6   26.0  2025-10-10    Low
+40        41         101         3         5   15.0  2025-10-11   High
+41        42         102         4         4   20.0  2025-10-12    Low
+42        43         103         5         9   19.0  2025-10-13   High
+43        44         104         6         7   28.0  2025-10-14    Low
+44        45         105         7        10   25.0  2025-10-15   High
+45        46         106         8         8   22.5  2025-10-16    Low
+46        47         107         9         6   24.0  2025-10-17   High
+47        48         108         1         3   27.0  2025-10-18    Low
+48        49         109         2        11   18.5  2025-10-19   High
+49        50         110         3        12   21.0  2025-10-20    Low
+50        51         101         1        10   15.0  2025-08-01   High
+51        52         101         1         5   25.0  2025-08-01    Low
+52        53         101         2         7   20.0  2023-09-02   High
+53        54         101         2         3   30.0  2023-09-03    Low
+54        55         105         1        12   12.0  2025-09-05   High
+55        56         106         3         8   18.0  2025-09-06    Low
+56        57         107         1         4   22.0  2025-09-07   High
+57        58         108         2         6   24.0  2025-09-08    Low
+58        59         109         3        11   19.0  2025-09-09   High
+59        60         110         4         9   17.0  2025-09-10    Low
+2026-06-12 18:49:44,141-INFO-The data in the file is :     sales_id  product_id  store_id  quantity  price   sale_date region
+0          1         101         1        10   15.0  2025-09-01   High
+1          2         102         1         5   25.0  2025-09-01    Low
+2          3         103         2         7   20.0  2025-09-02   High
+3          4         104         2         3   30.0  2025-09-03    Low
+4          5         105         1        12   12.0  2025-09-05   High
+5          6         106         3         8   18.0  2025-09-06    Low
+6          7         107         1         4   22.0  2025-09-07   High
+7          8         108         2         6   24.0  2025-09-08    Low
+8          9         109         3        11   19.0  2025-09-09   High
+9         10         110         4         9   17.0  2025-09-10    Low
+10        11         101         4        15   14.0  2025-09-11   High
+11        12         102         5         9   27.0  2025-09-12    Low
+12        13         103         6        10   22.0  2025-09-13   High
+13        14         104         7         8   31.0  2025-09-14    Low
+14        15         105         4        12   11.0  2025-09-15   High
+15        16         106         5         5   23.0  2025-09-16    Low
+16        17         107         6         3   26.0  2025-09-17   High
+17        18         108         7         6   28.0  2025-09-18    Low
+18        19         109         8        11   20.0  2025-09-19   High
+19        20         110         9         9   19.5  2025-09-20    Low
+20        21         101         1        14   15.5  2025-09-21   High
+21        22         102         2         8   22.0  2025-09-22    Low
+22        23         103         3         7   18.0  2025-09-23   High
+23        24         104         4         6   25.0  2025-09-24    Low
+24        25         105         2        12   13.5  2025-09-25   High
+25        26         106         3         5   21.0  2025-09-26    Low
+26        27         107         1        10   19.0  2025-09-27   High
+27        28         108         5         6   27.0  2025-09-28    Low
+28        29         109         6         9   24.0  2025-09-29   High
+29        30         110         7         7   23.5  2025-09-30    Low
+30        31         101         4        13   14.5  2025-10-01   High
+31        32         102         5         6   29.0  2025-10-02    Low
+32        33         103         6         8   21.0  2025-10-03   High
+33        34         104         7         5   30.0  2025-10-04    Low
+34        35         105         4         7   15.0  2025-10-05   High
+35        36         106         5         3   25.0  2025-10-06    Low
+36        37         107         6        12   18.0  2025-10-07   High
+37        38         108         7         9   20.0  2025-10-08    Low
+38        39         109         8        10   22.0  2025-10-09   High
+39        40         110         9         6   26.0  2025-10-10    Low
+40        41         101         3         5   15.0  2025-10-11   High
+41        42         102         4         4   20.0  2025-10-12    Low
+42        43         103         5         9   19.0  2025-10-13   High
+43        44         104         6         7   28.0  2025-10-14    Low
+44        45         105         7        10   25.0  2025-10-15   High
+45        46         106         8         8   22.5  2025-10-16    Low
+46        47         107         9         6   24.0  2025-10-17   High
+47        48         108         1         3   27.0  2025-10-18    Low
+48        49         109         2        11   18.5  2025-10-19   High
+49        50         110         3        12   21.0  2025-10-20    Low
+50        51         101         1        10   15.0  2025-08-01   High
+51        52         101         1         5   25.0  2025-08-01    Low
+52        53         101         2         7   20.0  2023-09-02   High
+53        54         101         2         3   30.0  2023-09-03    Low
+54        55         105         1        12   12.0  2025-09-05   High
+55        56         106         3         8   18.0  2025-09-06    Low
+56        57         107         1         4   22.0  2025-09-07   High
+57        58         108         2         6   24.0  2025-09-08    Low
+58        59         109         3        11   19.0  2025-09-09   High
+59        60         110         4         9   17.0  2025-09-10    Low
+2026-06-12 18:49:44,144-INFO-mysql  database connection is being established..
+2026-06-12 18:49:44,247-INFO-mysql database connection has established..
+2026-06-12 18:49:44,249-INFO-Checking for duplicates in product_id for table monthly_sales_summary
+2026-06-12 18:49:44,254-INFO-mysql database connection has been closed..
+2026-06-12 18:49:44,255-INFO-mysql  database connection is being established..
+2026-06-12 18:49:44,280-INFO-mysql database connection has established..
+2026-06-12 18:49:44,281-INFO-Starting Duplicate Validation for monthly_sales_summary
+2026-06-12 18:49:44,290-INFO-Duplicate check passed: Table is clean.
+2026-06-12 18:49:44,292-INFO-mysql database connection has been closed..
+2026-06-12 18:49:44,317-INFO-The data in the file is :     sales_id  product_id  store_id  quantity  price   sale_date region
+0          1         101         1        10   15.0  2025-09-01   High
+1          2         102         1         5   25.0  2025-09-01    Low
+2          3         103         2         7   20.0  2025-09-02   High
+3          4         104         2         3   30.0  2025-09-03    Low
+4          5         105         1        12   12.0  2025-09-05   High
+5          6         106         3         8   18.0  2025-09-06    Low
+6          7         107         1         4   22.0  2025-09-07   High
+7          8         108         2         6   24.0  2025-09-08    Low
+8          9         109         3        11   19.0  2025-09-09   High
+9         10         110         4         9   17.0  2025-09-10    Low
+10        11         101         4        15   14.0  2025-09-11   High
+11        12         102         5         9   27.0  2025-09-12    Low
+12        13         103         6        10   22.0  2025-09-13   High
+13        14         104         7         8   31.0  2025-09-14    Low
+14        15         105         4        12   11.0  2025-09-15   High
+15        16         106         5         5   23.0  2025-09-16    Low
+16        17         107         6         3   26.0  2025-09-17   High
+17        18         108         7         6   28.0  2025-09-18    Low
+18        19         109         8        11   20.0  2025-09-19   High
+19        20         110         9         9   19.5  2025-09-20    Low
+20        21         101         1        14   15.5  2025-09-21   High
+21        22         102         2         8   22.0  2025-09-22    Low
+22        23         103         3         7   18.0  2025-09-23   High
+23        24         104         4         6   25.0  2025-09-24    Low
+24        25         105         2        12   13.5  2025-09-25   High
+25        26         106         3         5   21.0  2025-09-26    Low
+26        27         107         1        10   19.0  2025-09-27   High
+27        28         108         5         6   27.0  2025-09-28    Low
+28        29         109         6         9   24.0  2025-09-29   High
+29        30         110         7         7   23.5  2025-09-30    Low
+30        31         101         4        13   14.5  2025-10-01   High
+31        32         102         5         6   29.0  2025-10-02    Low
+32        33         103         6         8   21.0  2025-10-03   High
+33        34         104         7         5   30.0  2025-10-04    Low
+34        35         105         4         7   15.0  2025-10-05   High
+35        36         106         5         3   25.0  2025-10-06    Low
+36        37         107         6        12   18.0  2025-10-07   High
+37        38         108         7         9   20.0  2025-10-08    Low
+38        39         109         8        10   22.0  2025-10-09   High
+39        40         110         9         6   26.0  2025-10-10    Low
+40        41         101         3         5   15.0  2025-10-11   High
+41        42         102         4         4   20.0  2025-10-12    Low
+42        43         103         5         9   19.0  2025-10-13   High
+43        44         104         6         7   28.0  2025-10-14    Low
+44        45         105         7        10   25.0  2025-10-15   High
+45        46         106         8         8   22.5  2025-10-16    Low
+46        47         107         9         6   24.0  2025-10-17   High
+47        48         108         1         3   27.0  2025-10-18    Low
+48        49         109         2        11   18.5  2025-10-19   High
+49        50         110         3        12   21.0  2025-10-20    Low
+50        51         101         1        10   15.0  2025-08-01   High
+51        52         101         1         5   25.0  2025-08-01    Low
+52        53         101         2         7   20.0  2023-09-02   High
+53        54         101         2         3   30.0  2023-09-03    Low
+54        55         105         1        12   12.0  2025-09-05   High
+55        56         106         3         8   18.0  2025-09-06    Low
+56        57         107         1         4   22.0  2025-09-07   High
+57        58         108         2         6   24.0  2025-09-08    Low
+58        59         109         3        11   19.0  2025-09-09   High
+59        60         110         4         9   17.0  2025-09-10    Low
+2026-06-12 18:49:44,320-INFO-mysql  database connection is being established..
+2026-06-12 18:49:44,343-INFO-mysql database connection has established..
+2026-06-12 18:49:44,345-INFO-Starting NULL value validation for monthly_sales_summary.product_id
+2026-06-12 18:49:44,347-INFO-NULL check passed for monthly_sales_summary.product_id
+2026-06-12 18:49:44,349-INFO-mysql database connection has been closed..
+2026-06-12 19:52:04,508-INFO-mysql  database connection is being established..
+2026-06-12 19:52:04,677-INFO-mysql database connection has established..
+2026-06-12 19:52:04,777-INFO-Test test_data_extraction_from_sales_data_to_stage passed successfully.
+2026-06-12 19:52:04,792-INFO-mysql database connection has been closed..
+2026-06-12 19:52:04,792-INFO-mysql  database connection is being established..
+2026-06-12 19:52:04,808-INFO-mysql database connection has established..
+2026-06-12 19:52:04,839-INFO-Expected data in the file is:    product_id  year  month  total_sales
+0         101  2025     10        263.5
+1         102  2025     10        254.0
+2         103  2025     10        339.0
+3         104  2025     10        346.0
+4         105  2025     10        355.0
+5         106  2025     10        255.0
+6         107  2025     10        360.0
+7         108  2025     10        261.0
+8         109  2025     10        423.5
+9         110  2025     10        408.0
+2026-06-12 19:52:04,868-INFO-Actual data in the file is:    product_id  year  month  total_sales
+0         101  2025     10        263.5
+1         102  2025     10        254.0
+2         103  2025     10        339.0
+3         104  2025     10        346.0
+4         105  2025     10        355.0
+5         106  2025     10        255.0
+6         107  2025     10        360.0
+7         108  2025     10        261.0
+8         109  2025     10        423.5
+9         110  2025     10        408.0
+2026-06-12 19:52:04,877-INFO-Test test_data_loading_monthly_sales_summary passed successfully.
+2026-06-12 19:52:04,877-INFO-mysql database connection has been closed..
+2026-06-12 19:52:04,892-INFO-The data in the file is :     sales_id  product_id  store_id  quantity  price   sale_date region
+0          1         101         1        10   15.0  2025-09-01   High
+1          2         102         1         5   25.0  2025-09-01    Low
+2          3         103         2         7   20.0  2025-09-02   High
+3          4         104         2         3   30.0  2025-09-03    Low
+4          5         105         1        12   12.0  2025-09-05   High
+5          6         106         3         8   18.0  2025-09-06    Low
+6          7         107         1         4   22.0  2025-09-07   High
+7          8         108         2         6   24.0  2025-09-08    Low
+8          9         109         3        11   19.0  2025-09-09   High
+9         10         110         4         9   17.0  2025-09-10    Low
+10        11         101         4        15   14.0  2025-09-11   High
+11        12         102         5         9   27.0  2025-09-12    Low
+12        13         103         6        10   22.0  2025-09-13   High
+13        14         104         7         8   31.0  2025-09-14    Low
+14        15         105         4        12   11.0  2025-09-15   High
+15        16         106         5         5   23.0  2025-09-16    Low
+16        17         107         6         3   26.0  2025-09-17   High
+17        18         108         7         6   28.0  2025-09-18    Low
+18        19         109         8        11   20.0  2025-09-19   High
+19        20         110         9         9   19.5  2025-09-20    Low
+20        21         101         1        14   15.5  2025-09-21   High
+21        22         102         2         8   22.0  2025-09-22    Low
+22        23         103         3         7   18.0  2025-09-23   High
+23        24         104         4         6   25.0  2025-09-24    Low
+24        25         105         2        12   13.5  2025-09-25   High
+25        26         106         3         5   21.0  2025-09-26    Low
+26        27         107         1        10   19.0  2025-09-27   High
+27        28         108         5         6   27.0  2025-09-28    Low
+28        29         109         6         9   24.0  2025-09-29   High
+29        30         110         7         7   23.5  2025-09-30    Low
+30        31         101         4        13   14.5  2025-10-01   High
+31        32         102         5         6   29.0  2025-10-02    Low
+32        33         103         6         8   21.0  2025-10-03   High
+33        34         104         7         5   30.0  2025-10-04    Low
+34        35         105         4         7   15.0  2025-10-05   High
+35        36         106         5         3   25.0  2025-10-06    Low
+36        37         107         6        12   18.0  2025-10-07   High
+37        38         108         7         9   20.0  2025-10-08    Low
+38        39         109         8        10   22.0  2025-10-09   High
+39        40         110         9         6   26.0  2025-10-10    Low
+40        41         101         3         5   15.0  2025-10-11   High
+41        42         102         4         4   20.0  2025-10-12    Low
+42        43         103         5         9   19.0  2025-10-13   High
+43        44         104         6         7   28.0  2025-10-14    Low
+44        45         105         7        10   25.0  2025-10-15   High
+45        46         106         8         8   22.5  2025-10-16    Low
+46        47         107         9         6   24.0  2025-10-17   High
+47        48         108         1         3   27.0  2025-10-18    Low
+48        49         109         2        11   18.5  2025-10-19   High
+49        50         110         3        12   21.0  2025-10-20    Low
+50        51         101         1        10   15.0  2025-08-01   High
+51        52         101         1         5   25.0  2025-08-01    Low
+52        53         101         2         7   20.0  2023-09-02   High
+53        54         101         2         3   30.0  2023-09-03    Low
+54        55         105         1        12   12.0  2025-09-05   High
+55        56         106         3         8   18.0  2025-09-06    Low
+56        57         107         1         4   22.0  2025-09-07   High
+57        58         108         2         6   24.0  2025-09-08    Low
+58        59         109         3        11   19.0  2025-09-09   High
+59        60         110         4         9   17.0  2025-09-10    Low
+2026-06-12 19:52:04,924-INFO-The data in the file is :     sales_id  product_id  store_id  quantity  price   sale_date region
+0          1         101         1        10   15.0  2025-09-01   High
+1          2         102         1         5   25.0  2025-09-01    Low
+2          3         103         2         7   20.0  2025-09-02   High
+3          4         104         2         3   30.0  2025-09-03    Low
+4          5         105         1        12   12.0  2025-09-05   High
+5          6         106         3         8   18.0  2025-09-06    Low
+6          7         107         1         4   22.0  2025-09-07   High
+7          8         108         2         6   24.0  2025-09-08    Low
+8          9         109         3        11   19.0  2025-09-09   High
+9         10         110         4         9   17.0  2025-09-10    Low
+10        11         101         4        15   14.0  2025-09-11   High
+11        12         102         5         9   27.0  2025-09-12    Low
+12        13         103         6        10   22.0  2025-09-13   High
+13        14         104         7         8   31.0  2025-09-14    Low
+14        15         105         4        12   11.0  2025-09-15   High
+15        16         106         5         5   23.0  2025-09-16    Low
+16        17         107         6         3   26.0  2025-09-17   High
+17        18         108         7         6   28.0  2025-09-18    Low
+18        19         109         8        11   20.0  2025-09-19   High
+19        20         110         9         9   19.5  2025-09-20    Low
+20        21         101         1        14   15.5  2025-09-21   High
+21        22         102         2         8   22.0  2025-09-22    Low
+22        23         103         3         7   18.0  2025-09-23   High
+23        24         104         4         6   25.0  2025-09-24    Low
+24        25         105         2        12   13.5  2025-09-25   High
+25        26         106         3         5   21.0  2025-09-26    Low
+26        27         107         1        10   19.0  2025-09-27   High
+27        28         108         5         6   27.0  2025-09-28    Low
+28        29         109         6         9   24.0  2025-09-29   High
+29        30         110         7         7   23.5  2025-09-30    Low
+30        31         101         4        13   14.5  2025-10-01   High
+31        32         102         5         6   29.0  2025-10-02    Low
+32        33         103         6         8   21.0  2025-10-03   High
+33        34         104         7         5   30.0  2025-10-04    Low
+34        35         105         4         7   15.0  2025-10-05   High
+35        36         106         5         3   25.0  2025-10-06    Low
+36        37         107         6        12   18.0  2025-10-07   High
+37        38         108         7         9   20.0  2025-10-08    Low
+38        39         109         8        10   22.0  2025-10-09   High
+39        40         110         9         6   26.0  2025-10-10    Low
+40        41         101         3         5   15.0  2025-10-11   High
+41        42         102         4         4   20.0  2025-10-12    Low
+42        43         103         5         9   19.0  2025-10-13   High
+43        44         104         6         7   28.0  2025-10-14    Low
+44        45         105         7        10   25.0  2025-10-15   High
+45        46         106         8         8   22.5  2025-10-16    Low
+46        47         107         9         6   24.0  2025-10-17   High
+47        48         108         1         3   27.0  2025-10-18    Low
+48        49         109         2        11   18.5  2025-10-19   High
+49        50         110         3        12   21.0  2025-10-20    Low
+50        51         101         1        10   15.0  2025-08-01   High
+51        52         101         1         5   25.0  2025-08-01    Low
+52        53         101         2         7   20.0  2023-09-02   High
+53        54         101         2         3   30.0  2023-09-03    Low
+54        55         105         1        12   12.0  2025-09-05   High
+55        56         106         3         8   18.0  2025-09-06    Low
+56        57         107         1         4   22.0  2025-09-07   High
+57        58         108         2         6   24.0  2025-09-08    Low
+58        59         109         3        11   19.0  2025-09-09   High
+59        60         110         4         9   17.0  2025-09-10    Low
+2026-06-12 19:52:04,924-INFO-mysql  database connection is being established..
+2026-06-12 19:52:04,939-INFO-mysql database connection has established..
+2026-06-12 19:52:04,939-INFO-Checking for duplicates in product_id for table monthly_sales_summary
+2026-06-12 19:52:04,939-INFO-mysql database connection has been closed..
+2026-06-12 19:52:04,939-INFO-mysql  database connection is being established..
+2026-06-12 19:52:04,959-INFO-mysql database connection has established..
+2026-06-12 19:52:04,960-INFO-Starting Duplicate Validation for monthly_sales_summary
+2026-06-12 19:52:04,978-INFO-Duplicate check passed: Table is clean.
+2026-06-12 19:52:04,978-INFO-mysql database connection has been closed..
+2026-06-12 19:52:04,994-INFO-The data in the file is :     sales_id  product_id  store_id  quantity  price   sale_date region
+0          1         101         1        10   15.0  2025-09-01   High
+1          2         102         1         5   25.0  2025-09-01    Low
+2          3         103         2         7   20.0  2025-09-02   High
+3          4         104         2         3   30.0  2025-09-03    Low
+4          5         105         1        12   12.0  2025-09-05   High
+5          6         106         3         8   18.0  2025-09-06    Low
+6          7         107         1         4   22.0  2025-09-07   High
+7          8         108         2         6   24.0  2025-09-08    Low
+8          9         109         3        11   19.0  2025-09-09   High
+9         10         110         4         9   17.0  2025-09-10    Low
+10        11         101         4        15   14.0  2025-09-11   High
+11        12         102         5         9   27.0  2025-09-12    Low
+12        13         103         6        10   22.0  2025-09-13   High
+13        14         104         7         8   31.0  2025-09-14    Low
+14        15         105         4        12   11.0  2025-09-15   High
+15        16         106         5         5   23.0  2025-09-16    Low
+16        17         107         6         3   26.0  2025-09-17   High
+17        18         108         7         6   28.0  2025-09-18    Low
+18        19         109         8        11   20.0  2025-09-19   High
+19        20         110         9         9   19.5  2025-09-20    Low
+20        21         101         1        14   15.5  2025-09-21   High
+21        22         102         2         8   22.0  2025-09-22    Low
+22        23         103         3         7   18.0  2025-09-23   High
+23        24         104         4         6   25.0  2025-09-24    Low
+24        25         105         2        12   13.5  2025-09-25   High
+25        26         106         3         5   21.0  2025-09-26    Low
+26        27         107         1        10   19.0  2025-09-27   High
+27        28         108         5         6   27.0  2025-09-28    Low
+28        29         109         6         9   24.0  2025-09-29   High
+29        30         110         7         7   23.5  2025-09-30    Low
+30        31         101         4        13   14.5  2025-10-01   High
+31        32         102         5         6   29.0  2025-10-02    Low
+32        33         103         6         8   21.0  2025-10-03   High
+33        34         104         7         5   30.0  2025-10-04    Low
+34        35         105         4         7   15.0  2025-10-05   High
+35        36         106         5         3   25.0  2025-10-06    Low
+36        37         107         6        12   18.0  2025-10-07   High
+37        38         108         7         9   20.0  2025-10-08    Low
+38        39         109         8        10   22.0  2025-10-09   High
+39        40         110         9         6   26.0  2025-10-10    Low
+40        41         101         3         5   15.0  2025-10-11   High
+41        42         102         4         4   20.0  2025-10-12    Low
+42        43         103         5         9   19.0  2025-10-13   High
+43        44         104         6         7   28.0  2025-10-14    Low
+44        45         105         7        10   25.0  2025-10-15   High
+45        46         106         8         8   22.5  2025-10-16    Low
+46        47         107         9         6   24.0  2025-10-17   High
+47        48         108         1         3   27.0  2025-10-18    Low
+48        49         109         2        11   18.5  2025-10-19   High
+49        50         110         3        12   21.0  2025-10-20    Low
+50        51         101         1        10   15.0  2025-08-01   High
+51        52         101         1         5   25.0  2025-08-01    Low
+52        53         101         2         7   20.0  2023-09-02   High
+53        54         101         2         3   30.0  2023-09-03    Low
+54        55         105         1        12   12.0  2025-09-05   High
+55        56         106         3         8   18.0  2025-09-06    Low
+56        57         107         1         4   22.0  2025-09-07   High
+57        58         108         2         6   24.0  2025-09-08    Low
+58        59         109         3        11   19.0  2025-09-09   High
+59        60         110         4         9   17.0  2025-09-10    Low
+2026-06-12 19:52:04,994-INFO-mysql  database connection is being established..
+2026-06-12 19:52:05,009-INFO-mysql database connection has established..
+2026-06-12 19:52:05,009-INFO-Starting NULL value validation for monthly_sales_summary.product_id
+2026-06-12 19:52:05,009-INFO-NULL check passed for monthly_sales_summary.product_id
+2026-06-12 19:52:05,009-INFO-mysql database connection has been closed..
+2026-06-12 19:52:05,009-INFO-mysql  database connection is being established..
+2026-06-12 19:52:05,025-INFO-mysql database connection has established..
+2026-06-12 19:52:05,025-ERROR-error while sales data extraction checks..
+2026-06-12 19:52:05,025-INFO-mysql database connection has been closed..
+2026-06-12 19:52:05,025-INFO-mysql  database connection is being established..
+2026-06-12 19:52:05,041-INFO-mysql database connection has established..
+2026-06-12 19:52:05,041-ERROR-error while Aggregator sales transformation checks..
+2026-06-12 19:52:05,041-INFO-mysql database connection has been closed..
+2026-06-12 19:52:05,041-INFO-mysql  database connection is being established..
+2026-06-12 19:52:05,062-INFO-mysql database connection has established..
+2026-06-12 19:52:05,072-INFO-the actual tables are :['filtered_sales', 'monthly_sales_summary', 'monthly_sales_summary_source', 'stag_sales']
+2026-06-12 19:52:05,074-INFO-mysql database connection has been closed..
+2026-06-12 19:52:05,076-INFO-mysql  database connection is being established..
+2026-06-12 19:52:05,084-INFO-mysql database connection has established..
+2026-06-12 19:52:05,084-INFO-Starting execution of: test_data_types_of_columns_in_the_monthly_sales_summary
+2026-06-12 19:52:05,103-INFO-mysql database connection has been closed..

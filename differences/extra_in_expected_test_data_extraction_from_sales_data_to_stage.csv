@@ -1,0 +1,2 @@
+sales_id,product_id,store_id,quantity,price,sale_date,region
+101,101,1,10,15.0,2025-09-01,High
