@@ -1301,3 +1301,21 @@ assert 1 == 0
 2026-06-12 19:52:05,084-INFO-mysql database connection has established..
 2026-06-12 19:52:05,084-INFO-Starting execution of: test_data_types_of_columns_in_the_monthly_sales_summary
 2026-06-12 19:52:05,103-INFO-mysql database connection has been closed..
+2026-06-15 09:23:08,489-INFO-mysql  database connection is being established..
+2026-06-15 09:23:08,640-INFO-mysql database connection has established..
+2026-06-15 09:23:09,061-INFO-mysql database connection has been closed..
+2026-06-15 21:45:25,369-INFO-mysql  database connection is being established..
+2026-06-15 21:45:25,522-INFO-mysql database connection has established..
+2026-06-15 21:45:25,592-INFO-mysql database connection has been closed..
+2026-06-15 21:51:33,415-INFO-mysql  database connection is being established..
+2026-06-15 21:51:33,518-INFO-mysql database connection has established..
+2026-06-15 21:51:34,089-INFO-mysql database connection has been closed..
+2026-06-15 21:51:34,091-INFO-mysql  database connection is being established..
+2026-06-15 21:51:34,108-INFO-mysql database connection has established..
+2026-06-15 21:51:34,308-INFO-mysql database connection has been closed..
+2026-06-15 21:52:52,291-INFO-mysql  database connection is being established..
+2026-06-15 21:52:52,387-INFO-mysql database connection has established..
+2026-06-15 21:52:52,414-INFO-mysql database connection has been closed..
+2026-06-15 21:52:52,416-INFO-mysql  database connection is being established..
+2026-06-15 21:52:52,424-INFO-mysql database connection has established..
+2026-06-15 21:52:52,464-INFO-mysql database connection has been closed..

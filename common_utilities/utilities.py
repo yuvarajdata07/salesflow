@@ -279,3 +279,58 @@ def check_for_null_values_for_specific_column_in_file(file_path, file_type, colu
             return True
     except Exception as e:
         logger.error(f" error occured while pefroming duplicate checks..")
+
+
+# incremental validation
+def get_incremental_target_records(connection, execution_start_time):
+    """
+    Retrieve records processed in the latest ETL run.
+    """
+
+    query = f"""
+        SELECT *
+        FROM monthly_sales_summary
+        WHERE etl_updated_dt >= '{execution_start_time}'
+    """
+
+    return pd.read_sql(query, connection)
+
+
+def validate_new_records(source_df, target_df):
+    """
+    Validate newly inserted records.
+    """
+    source_keys = set(source_df["product_id"])
+    target_keys = set(target_df["product_id"])
+
+    missing_records = source_keys - target_keys
+
+    return missing_records
+
+
+def validate_updated_records(source_df, target_df):
+    """
+    Validate updated records.
+    """
+
+    mismatches = []
+
+    merged = source_df.merge(
+        target_df,
+        on=["product_id", "month", "year"],
+        suffixes=("_source", "_target")
+    )
+
+    for _, row in merged.iterrows():
+
+        if row["total_sales_source"] != row["total_sales_target"]:
+
+            mismatches.append(
+                {
+                    "product_id": row["product_id"],
+                    "source_sales": row["total_sales_source"],
+                    "target_sales": row["total_sales_target"]
+                }
+            )
+
+    return mismatches
